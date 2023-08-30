@@ -1,4 +1,4 @@
-# README.md - CS58 Programming Project #1
+# README.md - Photo Album
 ### Author - Spencer Warezak
 ### Date - January 17, 2022
 
